@@ -5,6 +5,7 @@
 The goal of this project is to develop and deploy a machine learning model that identifies diseases in tomato fruits from images. The deployment involves creating a RESTful API using FastAPI and setting up a CI/CD pipeline to streamline updates and ensure continuous availability.
 
 **Components**
+
 Model Training (model.py):
 
 Purpose: Train a deep learning model to classify tomato fruit diseases.
@@ -33,6 +34,7 @@ Set uvicorn as the entry point for the application.
 Dependency Management (requirements.txt):
 
 Includes essential libraries like FastAI, FastAPI, Pillow, and Uvicorn for API hosting and image processing.
+
 **CI/CD Pipeline:**
 
 Platform: Render is used for automated builds and deployments.
