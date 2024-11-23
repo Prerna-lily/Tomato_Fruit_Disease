@@ -1,5 +1,7 @@
 **Project Overview: Tomato Fruit Disease Prediction with CI/CD Deployment**
+
 **Objective**
+
 The goal of this project is to develop and deploy a machine learning model that identifies diseases in tomato fruits from images. The deployment involves creating a RESTful API using FastAPI and setting up a CI/CD pipeline to streamline updates and ensure continuous availability.
 
 **Components**
